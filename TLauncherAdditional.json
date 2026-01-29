@@ -6712,6 +6712,231 @@
           "parser": true,
           "totalComments": 0,
           "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 239197,
+          "name": "CraftTweaker",
+          "author": "jaredlll08 StanH",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/crafttweaker",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            },
+            {
+              "id": 69,
+              "name": "crafttweaker",
+              "shortName": "crafttweaker",
+              "nesting": 0
+            }
+          ],
+          "picture": 781715,
+          "pictures": [],
+          "lanName": "crafttweaker1",
+          "version": {
+            "id": 7406648,
+            "name": "2-1.12-4.1.20.711",
+            "updateDate": 1767323945000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "4b4d1c646dc7612974412b668dc2d506ae9a6621",
+              "size": 1608673,
+              "path": "mods/CraftTweaker2-1.12-4.1.20.711.jar",
+              "url": "/mods/239197/7406648/CraftTweaker2-1.12-4.1.20.711.jar"
+            },
+            "installed": 2601,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 1021,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1764882000000,
+          "update": 1764882000000,
+          "downloadALL": 2878894,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 220954,
+          "name": "ModTweaker",
+          "author": "jaredlll08 jaredlll08",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/modtweaker",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 69,
+              "name": "crafttweaker",
+              "shortName": "crafttweaker",
+              "nesting": 0
+            }
+          ],
+          "picture": 844203,
+          "pictures": [],
+          "lanName": "modtweaker",
+          "version": {
+            "id": 3840577,
+            "name": "modtweaker-4.0.20.11",
+            "updateDate": 1655679226000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "f0bdbf6f4257e392e59023289998aaa8c295df47",
+              "size": 493285,
+              "path": "mods/modtweaker-4.0.20.11.jar",
+              "url": "/mods/220954/3840577/modtweaker-4.0.20.11.jar"
+            },
+            "installed": 12134,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 100,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1655672400000,
+          "update": 1655672400000,
+          "downloadALL": 71494,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 253211,
+          "name": "MTLib",
+          "author": "jaredlll08",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/mtlib",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            },
+            {
+              "id": 69,
+              "name": "crafttweaker",
+              "shortName": "crafttweaker",
+              "nesting": 0
+            }
+          ],
+          "picture": 11188,
+          "pictures": [],
+          "lanName": "mtlib",
+          "version": {
+            "id": 3308160,
+            "name": "3.0.7",
+            "updateDate": 1620867747000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "7d2b9e97518dca1e9326fd347ba1eb93dec35999",
+              "size": 30009,
+              "path": "mods/MTLib-3.0.7.jar",
+              "url": "/mods/253211/3308160/MTLib-3.0.7.jar"
+            },
+            "installed": 46230,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 72,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 208,
+              "name": "CraftTweaker",
+              "gameEntityId": 239197,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1620867720000,
+          "update": 1620867720000,
+          "downloadALL": 60745,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
         }
       ],
       "resourcePacks": [
@@ -7271,7 +7496,7 @@
       ],
       "shaderpacks": [
         {
-          "stateGameElement": "no_active",
+          "stateGameElement": "active",
           "id": 627557,
           "name": "Complementary Shaders - Reimagined",
           "author": "emingtr",
