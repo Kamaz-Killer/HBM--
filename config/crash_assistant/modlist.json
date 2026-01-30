@@ -391,6 +391,13 @@
     "curseForgeHash": 124616430,
     "modrinthHash": "3d21562963b4cdffeb7b5361c54b5ac560e1708f"
   },
+  "malilib-forge-1.12.2-0.10.0-dev.23.jar": {
+    "jarName": "malilib-forge-1.12.2-0.10.0-dev.23.jar",
+    "modId": "malilib",
+    "version": "0.10.0-dev.23",
+    "curseForgeHash": 3766249950,
+    "modrinthHash": "bb34540f3c1c724899eaac96391e73e40c601cbc"
+  },
   "mcheli-ce-1.3.2.jar": {
     "jarName": "mcheli-ce-1.3.2.jar",
     "modId": "mcheli",

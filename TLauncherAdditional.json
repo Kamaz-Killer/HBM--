@@ -8034,6 +8034,68 @@
           "parser": true,
           "totalComments": 0,
           "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 303119,
+          "name": "MaLiLib",
+          "author": "masa_",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/malilib",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 844700,
+          "pictures": [],
+          "lanName": "malilib",
+          "version": {
+            "id": 11001701,
+            "name": "1.12.2-0.10.0-dev.23",
+            "updateDate": 1610744400000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "bb34540f3c1c724899eaac96391e73e40c601cbc",
+              "size": 1468377,
+              "path": "mods/malilib-forge-1.12.2-0.10.0-dev.23.jar",
+              "url": "/mods/303119/11001701/malilib-forge-1.12.2-0.10.0-dev.23.jar"
+            },
+            "installed": 15775,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 7,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 65,
+            "name": "1.21.10"
+          },
+          "updated": 1760907600000,
+          "update": 1760907600000,
+          "downloadALL": 519701,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
         }
       ],
       "resourcePacks": [
