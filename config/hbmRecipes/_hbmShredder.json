@@ -114,6 +114,10 @@
       "output": ["hbm:niter",8]
     },
     {
+      "input": ["extrautils2:ironwood_log",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
       "input": ["hbm:deco_pipe_framed_green_rusted"],
       "output": ["hbm:powder_steel"]
     },
@@ -380,6 +384,10 @@
     {
       "input": ["hbm:crate_tungsten"],
       "output": ["hbm:powder_tungsten",36]
+    },
+    {
+      "input": ["extrautils2:ironwood_planks",1,32767],
+      "output": ["hbm:powder_sawdust"]
     },
     {
       "input": ["hbm:crystal_uranium"],
@@ -720,6 +728,10 @@
     {
       "input": ["hbm:sand_dirty_red"],
       "output": ["hbm:scrap_oil"]
+    },
+    {
+      "input": ["extrautils2:ironwood_sapling",1,32767],
+      "output": ["minecraft:stick"]
     },
     {
       "input": ["hbm:meteor_brick"],

@@ -6937,6 +6937,1103 @@
           "parser": true,
           "totalComments": 0,
           "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 289412,
+          "name": "FTB Quests (NeoForge)",
+          "author": "LatvianModder FTB",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 787546,
+          "pictures": [],
+          "lanName": "ftb-quests",
+          "version": {
+            "id": 3156637,
+            "name": "FTBQuests-1202.9.0.15",
+            "updateDate": 1609618249000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "03413411b820e0fb91f36013aa5954dde3bc85e9",
+              "size": 1091954,
+              "path": "mods/FTBQuests-1202.9.0.15.jar",
+              "url": "/mods/289412/3156637/FTBQuests-1202.9.0.15.jar"
+            },
+            "installed": 51907,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 452,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 1053,
+              "name": "FTB Library (Forge)",
+              "gameEntityId": 404465,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 5798,
+              "name": "FTB XMod Compat",
+              "gameEntityId": 889915,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 422,
+              "name": "Architectury API",
+              "gameEntityId": 419699,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 1055,
+              "name": "FTB Teams (NeoForge)",
+              "gameEntityId": 404468,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1767733200000,
+          "update": 1767733200000,
+          "downloadALL": 501726,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 513769,
+          "name": "Item Borders [NeoForge]",
+          "author": "grend_g",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/item-borders",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            },
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 800539,
+          "pictures": [
+            240572
+          ],
+          "lanName": "item-borders",
+          "version": {
+            "id": 4590380,
+            "name": "ItemBorders-1.12.2-forge-1.2.0",
+            "updateDate": 1686869541000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "200188ff9b477a615ed556a11a386e3cf816ce5f",
+              "size": 983240,
+              "path": "mods/ItemBorders-1.12.2-forge-1.2.0.jar",
+              "url": "/mods/513769/4590380/ItemBorders-1.12.2-forge-1.2.0.jar"
+            },
+            "installed": 8661,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 3,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 57,
+            "name": "1.21.4"
+          },
+          "updated": 1738875600000,
+          "update": 1738875600000,
+          "downloadALL": 140115,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 309674,
+          "name": "Item Filters",
+          "author": "LatvianModder",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/item-filters",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 821144,
+          "pictures": [],
+          "lanName": "item-filters",
+          "version": {
+            "id": 3003364,
+            "name": "1.0.4.2",
+            "updateDate": 1594583839000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "6b6560aea35c6e0e8a550ea7044501412b0fb335",
+              "size": 78935,
+              "path": "mods/ItemFilters-1.0.4.2.jar",
+              "url": "/mods/309674/3003364/ItemFilters-1.0.4.2.jar"
+            },
+            "installed": 44195,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 3,
+          "downloadMonth": 60,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1698958800000,
+          "update": 1698958800000,
+          "downloadALL": 266238,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 621529,
+          "name": "Better F3 Plus",
+          "author": "chpas_",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/better-f3-plus",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            }
+          ],
+          "picture": 846906,
+          "pictures": [],
+          "lanName": "better-f3-plus",
+          "version": {
+            "id": 4600142,
+            "name": "betterf3plus-1.12.2-1.0",
+            "updateDate": 1687322457000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "d4afb9d851b70504cfbbf62cd0dca9fb28cb2223",
+              "size": 7995,
+              "path": "mods/betterf3plus-1.12.2-1.0.jar",
+              "url": "/mods/621529/4600142/betterf3plus-1.12.2-1.0.jar"
+            },
+            "installed": 515,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 49,
+            "name": "1.20.4"
+          },
+          "updated": 1705611600000,
+          "update": 1705611600000,
+          "downloadALL": 5412,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 237749,
+          "name": "CoroUtil",
+          "author": "Corosus",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/coroutil",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 821166,
+          "pictures": [],
+          "lanName": "coroutil",
+          "version": {
+            "id": 2902920,
+            "name": "coroutil-1.12.1-1.2.37",
+            "updateDate": 1584295200000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              },
+              {
+                "id": 2,
+                "name": "1.12.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "90392789dfbcadf440415a775d3ec81326deee2f",
+              "size": 2327451,
+              "path": "mods/coroutil-1.12.1-1.2.37.jar",
+              "url": "/mods/237749/2902920/coroutil-1.12.1-1.2.37.jar"
+            },
+            "installed": 474456,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 309,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 57,
+            "name": "1.21.4"
+          },
+          "updated": 1742418000000,
+          "update": 1742418000000,
+          "downloadALL": 1485025,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 237754,
+          "name": "Zombie Awareness",
+          "author": "Corosus",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/zombie-awareness",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            }
+          ],
+          "picture": 844289,
+          "pictures": [
+            18538
+          ],
+          "lanName": "zombie-awareness",
+          "version": {
+            "id": 11001912,
+            "name": "zombieawareness-1.12.1-1.11.16",
+            "updateDate": 1614373200000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              },
+              {
+                "id": 2,
+                "name": "1.12.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "4d5f353e9dfd66b5648918ba5f8338cf936fc2f0",
+              "size": 285951,
+              "path": "mods/zombieawareness-1.12.1-1.11.16.jar",
+              "url": "/mods/237754/11001912/zombieawareness-1.12.1-1.11.16.jar"
+            },
+            "installed": 557197,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 1426,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 415,
+              "name": "CoroUtil",
+              "gameEntityId": 237749,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1726520400000,
+          "update": 1726520400000,
+          "downloadALL": 1870863,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 225738,
+          "name": "MmmMmmMmmMmm (Target Dummy)",
+          "author": "bonusboni",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            },
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            }
+          ],
+          "picture": 787822,
+          "pictures": [
+            187061,
+            20173,
+            271580,
+            187057,
+            271581,
+            20166,
+            187058,
+            187060,
+            187059,
+            187231,
+            20170
+          ],
+          "lanName": "mmmmmmmmmmmm",
+          "version": {
+            "id": 7454196,
+            "name": "MmmMmmMmmMmm-1.12-2.0.6",
+            "updateDate": 1768301167000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              },
+              {
+                "id": 2,
+                "name": "1.12.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "75d25024ba41f978aa02f152d2d6b2994b1da6a5",
+              "size": 48767,
+              "path": "mods/MmmMmmMmmMmm-1.12-2.0.6.jar",
+              "url": "/mods/225738/7454196/MmmMmmMmmMmm-1.12-2.0.6.jar"
+            },
+            "installed": 351,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 87,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1762722000000,
+          "update": 1762722000000,
+          "downloadALL": 681405,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 336272,
+          "name": "Mutant Beasts",
+          "author": "chumbanotz",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/mutant-beasts",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            }
+          ],
+          "picture": 129436,
+          "pictures": [
+            134285,
+            134287,
+            134291,
+            134292,
+            134293,
+            134283,
+            134288,
+            134286,
+            134290,
+            134284,
+            134289
+          ],
+          "lanName": "mutant-beasts",
+          "version": {
+            "id": 3225395,
+            "name": "1.12.2-1.0.2",
+            "updateDate": 1614747112000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "b2ae04070cfa531647c88fea17f2cd229289e297",
+              "size": 1200094,
+              "path": "mods/MutantBeasts-1.12.2-1.0.2.jar",
+              "url": "/mods/336272/3225395/MutantBeasts-1.12.2-1.0.2.jar"
+            },
+            "installed": 1612352,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 15894,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 31,
+            "name": "1.16.5"
+          },
+          "updated": 1639203660000,
+          "update": 1639203660000,
+          "downloadALL": 7191147,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 298995,
+          "name": "SCP Lockdown",
+          "author": "WendigoReich theminecraftduby Alexiy_Ov",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/scp-lockdown",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            }
+          ],
+          "picture": 1296011,
+          "pictures": [
+            73210,
+            73211,
+            73214,
+            73212,
+            73213,
+            73215,
+            73209
+          ],
+          "lanName": "scp-lockdown",
+          "version": {
+            "id": 6100052,
+            "name": "1.12.2-2.4.3-release",
+            "updateDate": 1737218744000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "69366358114db6292c98ee98762f266ac4e135b2",
+              "size": 11948291,
+              "path": "mods/SCP Lockdown-1.12.2-2.4.3-release.jar",
+              "url": "/mods/298995/6100052/SCP%20Lockdown-1.12.2-2.4.3-release.jar"
+            },
+            "installed": 36790,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 2067,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1768770000000,
+          "update": 1768770000000,
+          "downloadALL": 843800,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 225561,
+          "name": "Extra Utilities",
+          "author": "RWTema",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/extra-utilities",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 5,
+              "name": "technology",
+              "shortName": "technology",
+              "nesting": 0
+            },
+            {
+              "id": 30,
+              "name": "technology_processing",
+              "shortName": "processing",
+              "nesting": 0
+            },
+            {
+              "id": 20,
+              "name": "technology_item_fluid_energy_transport",
+              "shortName": "fluid",
+              "nesting": 0
+            },
+            {
+              "id": 12,
+              "name": "technology_energy",
+              "shortName": "energy",
+              "nesting": 0
+            }
+          ],
+          "picture": 800345,
+          "pictures": [],
+          "lanName": "extra-utilities",
+          "version": {
+            "id": 2678374,
+            "name": "extrautils2-1.12-1.9.9",
+            "updateDate": 1550787097000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              },
+              {
+                "id": 2,
+                "name": "1.12.1"
+              },
+              {
+                "id": 3,
+                "name": "1.12"
+              }
+            ],
+            "metadata": {
+              "sha1": "9f9a217b23626cb338cf229054ed490d913610dc",
+              "size": 3226408,
+              "path": "mods/extrautils2-1.12-1.9.9.jar",
+              "url": "/mods/225561/2678374/extrautils2-1.12-1.9.9.jar"
+            },
+            "installed": 514877,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 7662,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1550696400000,
+          "update": 1550696400000,
+          "downloadALL": 3193923,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 221585,
+          "name": "Roguelike Dungeons",
+          "author": "Greymerk",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/roguelike-dungeons",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 2,
+              "name": "adventure_rpg",
+              "shortName": "rpg",
+              "nesting": 0
+            }
+          ],
+          "picture": 9152,
+          "pictures": [
+            98061,
+            98063,
+            98052,
+            98059,
+            98062,
+            98053,
+            98057
+          ],
+          "lanName": "roguelike-dungeons",
+          "version": {
+            "id": 2492586,
+            "name": "1.12.2-1.8.0",
+            "updateDate": 1508446800000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "b62a39f5313fe3e2bd324cf2371ec472d3e3e15c",
+              "size": 701215,
+              "path": "mods/RoguelikeDungeons-1.12.2-1.8.0.jar",
+              "url": "/mods/221585/2492586/RoguelikeDungeons-1.12.2-1.8.0.jar"
+            },
+            "installed": 1543492,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 3851,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1508479620000,
+          "update": 1508479620000,
+          "downloadALL": 2421899,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1154099,
+          "name": "Crash Assistant",
+          "author": "KostromDan",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/crash-assistant",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            },
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            }
+          ],
+          "picture": 1249969,
+          "pictures": [],
+          "lanName": "crash-assistant",
+          "version": {
+            "id": 7374723,
+            "name": "!!!CrashAssistant-forge-1.12.2-1.10.28",
+            "updateDate": 1766620459000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "afec88671087ca9ebefff13893d8b952ff0b5603",
+              "size": 1465507,
+              "path": "mods/!!!CrashAssistant-forge-1.12.2-1.10.28.jar",
+              "url": "/mods/1154099/7374723/!!!CrashAssistant-forge-1.12.2-1.10.28.jar"
+            },
+            "installed": 262,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1762549200000,
+          "update": 1762549200000,
+          "downloadALL": 26961,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 265917,
+          "name": "JEI Integration",
+          "author": "SnowShock35 tonius111",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/jei-integration",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            }
+          ],
+          "picture": 844196,
+          "pictures": [],
+          "lanName": "jei-integration",
+          "version": {
+            "id": 2951731,
+            "name": "jeiintegration_1.12.2-1.6.0",
+            "updateDate": 1588919677000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "54228a056a85fa146503cc7a20d3cf67fd55865f",
+              "size": 25196,
+              "path": "mods/jeiintegration_1.12.2-1.6.0.jar",
+              "url": "/mods/265917/2951731/jeiintegration_1.12.2-1.6.0.jar"
+            },
+            "installed": 33467,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 4,
+          "downloadMonth": 425,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1704056400000,
+          "update": 1704056400000,
+          "downloadALL": 319001,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 227795,
+          "name": "Antique Atlas",
+          "author": "Hunternif coolAlias Kenkron",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/antique-atlas",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 1182295,
+          "pictures": [
+            23258,
+            23248,
+            23253
+          ],
+          "lanName": "antique-atlas",
+          "version": {
+            "id": 2823030,
+            "name": "antiqueatlas-1.12.2-4.6.3",
+            "updateDate": 1572976800000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "9531e665ad5d5aa7a84890147dddb6eaf86a5752",
+              "size": 1239580,
+              "path": "mods/antiqueatlas-1.12.2-4.6.3.jar",
+              "url": "/mods/227795/2823030/antiqueatlas-1.12.2-4.6.3.jar"
+            },
+            "installed": 233670,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 857,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1754341200000,
+          "update": 1754341200000,
+          "downloadALL": 1005817,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
         }
       ],
       "resourcePacks": [
@@ -7462,6 +8559,104 @@
           "updated": 1761771600000,
           "update": 1761771600000,
           "downloadALL": 523103,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1441817,
+          "name": "PvP Crosshair Renewed",
+          "author": "Discorde",
+          "linkProject": "https://www.curseforge.com/minecraft/texture-packs/pvp-crosshair-renewed",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            },
+            {
+              "id": 49,
+              "name": "mod_support",
+              "shortName": "mod",
+              "nesting": 0
+            },
+            {
+              "id": 50,
+              "name": "modern",
+              "shortName": "modern",
+              "nesting": 0
+            },
+            {
+              "id": 41,
+              "name": "sixteen_x",
+              "shortName": "16x",
+              "nesting": 0
+            },
+            {
+              "id": 53,
+              "name": "traditional",
+              "shortName": "traditional",
+              "nesting": 0
+            }
+          ],
+          "picture": 1313618,
+          "pictures": [
+            1315499
+          ],
+          "lanName": "pvp-crosshair-renewed",
+          "version": {
+            "id": 7512330,
+            "name": "PvP Crosshair",
+            "updateDate": 1769183159000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              },
+              {
+                "id": 2,
+                "name": "1.12.1"
+              },
+              {
+                "id": 3,
+                "name": "1.12"
+              },
+              {
+                "id": 4,
+                "name": "1.11.2"
+              },
+              {
+                "id": 5,
+                "name": "1.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "0b0e2ee5b2cec4624fc9c5fcaaf64a6aee89b84a",
+              "size": 12147,
+              "path": "resourcepacks/PvP%20Crosshair.zip",
+              "url": "/resourcepacks/1441817/7512330/PvP%2520Crosshair.zip"
+            },
+            "installed": 12,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": []
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1769115600000,
+          "update": 1769115600000,
+          "downloadALL": 180,
           "available": true,
           "parser": true,
           "totalComments": 0
