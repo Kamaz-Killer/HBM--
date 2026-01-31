@@ -144,95 +144,6 @@
           "adult": false
         },
         {
-          "stateGameElement": "no_active",
-          "id": 1149979,
-          "name": "HBMNTM structure",
-          "author": "AliyKorol",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/hbm-ntm-structure-1-12-2",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 27,
-              "name": "world_structures",
-              "shortName": "structures",
-              "nesting": 0
-            },
-            {
-              "id": 5,
-              "name": "technology",
-              "shortName": "technology",
-              "nesting": 0
-            },
-            {
-              "id": 26,
-              "name": "mc_addons",
-              "shortName": "addons",
-              "nesting": 0
-            }
-          ],
-          "picture": 972954,
-          "pictures": [
-            973109,
-            973120,
-            973115,
-            973117,
-            973121,
-            973110,
-            973119,
-            973108,
-            973113,
-            973118,
-            973111,
-            973122,
-            973116,
-            973112,
-            973114
-          ],
-          "lanName": "hbm-ntm-structure-1-12-2",
-          "version": {
-            "id": 6319047,
-            "name": "NTMstructure 1.12.2 2.0",
-            "updateDate": 1742308870000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 1,
-                "name": "1.12.2"
-              }
-            ],
-            "metadata": {
-              "sha1": "551e14bf509ebde1385d9463a8e4d6773413b643",
-              "size": 1208033,
-              "path": "mods/NTMstructure 1.12.2 2.0.jar",
-              "url": "/mods/1149979/6319047/NTMstructure%201.12.2%202.0.jar"
-            },
-            "installed": 13705,
-            "available": false,
-            "remove": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 2,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 1,
-            "name": "1.12.2"
-          },
-          "updated": 1742245200000,
-          "update": 1742245200000,
-          "downloadALL": 17657,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
           "stateGameElement": "active",
           "id": 349559,
           "name": "FallingTree",
@@ -1347,70 +1258,6 @@
           "parser": true,
           "totalComments": 0,
           "adult": false
-        },
-        {
-          "stateGameElement": "active",
-          "id": 23125433,
-          "name": "Jenny Mode",
-          "author": "venomous_volt",
-          "uuid": "d2d24248-8ad8-11ed-94e8-f02f74958c02",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 2,
-              "name": "adventure_rpg",
-              "shortName": "rpg",
-              "nesting": 0
-            }
-          ],
-          "picture": 490458,
-          "pictures": [
-            490475
-          ],
-          "lanName": "74-81-163-108",
-          "version": {
-            "id": 11005022,
-            "name": "1.12.2",
-            "updateDate": 1692790676000,
-            "type": "beta",
-            "gameVersionsDTO": [
-              {
-                "id": 1,
-                "name": "1.12.2"
-              }
-            ],
-            "metadata": {
-              "sha1": "5c310dac45d3a6039a9e182f948f1569af4683e2",
-              "size": 44632692,
-              "path": "mods/Jenny-Mod-Forge-1.12.2-v1.9.0.jar",
-              "url": "/mods/23084638/11004980/Jenny-Mod-Forge-1.12.2-v1.9.0.jar"
-            },
-            "installed": 1584935,
-            "available": false,
-            "remove": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 5,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 1,
-            "name": "1.12.2"
-          },
-          "updated": 1760423460000,
-          "update": 1760423460000,
-          "downloadALL": 1581747,
-          "available": true,
-          "parser": false,
-          "totalComments": 0,
-          "adult": true
         },
         {
           "stateGameElement": "active",
@@ -3823,69 +3670,6 @@
           "adult": false
         },
         {
-          "stateGameElement": "no_active",
-          "id": 1197465,
-          "name": "Retro Sophisticated Backpacks",
-          "author": "CleanroomMC",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/retro-sophisticated-backpacks",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 26,
-              "name": "mc_addons",
-              "shortName": "addons",
-              "nesting": 0
-            }
-          ],
-          "picture": 1030544,
-          "pictures": [
-            1036907
-          ],
-          "lanName": "retro-sophisticated-backpacks",
-          "version": {
-            "id": 6359328,
-            "name": "Retro-Sophisticated-Backpacks-1.0.2",
-            "updateDate": 1743169344000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 1,
-                "name": "1.12.2"
-              }
-            ],
-            "metadata": {
-              "sha1": "94be61e232e7a7f4c0abb3c0b9307a067d036c06",
-              "size": 766220,
-              "path": "mods/Retro-Sophisticated-Backpacks-1.0.2.jar",
-              "url": "/mods/1197465/6359328/Retro-Sophisticated-Backpacks-1.0.2.jar"
-            },
-            "installed": 7928,
-            "available": false,
-            "remove": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 1,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 1,
-            "name": "1.12.2"
-          },
-          "updated": 1743109200000,
-          "update": 1743109200000,
-          "downloadALL": 9895,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
           "stateGameElement": "active",
           "id": 244201,
           "name": "Techguns",
@@ -4833,85 +4617,6 @@
           "updated": 1760043600000,
           "update": 1760043600000,
           "downloadALL": 3187890,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
-          "stateGameElement": "no_active",
-          "id": 546670,
-          "name": "Essential Mod",
-          "author": "sparkuniverse_",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/essential-mod",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 7,
-              "name": "library_api",
-              "shortName": "api",
-              "nesting": 0
-            },
-            {
-              "id": 3,
-              "name": "cosmetic",
-              "shortName": "cosmetic",
-              "nesting": 0
-            }
-          ],
-          "picture": 787611,
-          "pictures": [
-            1021885,
-            1021881,
-            1021883,
-            1021880,
-            1021882,
-            1021879,
-            1021884,
-            1021878,
-            1021887,
-            1021886
-          ],
-          "lanName": "essential-mod",
-          "version": {
-            "id": 7312130,
-            "name": "Essential_1-3-10-4_forge_1-12-2",
-            "updateDate": 1765296983000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 1,
-                "name": "1.12.2"
-              }
-            ],
-            "metadata": {
-              "sha1": "dee87364d50616a8b61d78a0a12113dd8cebd41f",
-              "size": 58368266,
-              "path": "mods/Essential_1-3-10-4_forge_1-12-2.jar",
-              "url": "/mods/546670/7312130/Essential_1-3-10-4_forge_1-12-2.jar"
-            },
-            "installed": 722,
-            "available": false,
-            "remove": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 5,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 66,
-            "name": "1.21.11"
-          },
-          "updated": 1762376400000,
-          "update": 1762376400000,
-          "downloadALL": 648343,
           "available": true,
           "parser": true,
           "totalComments": 0,
@@ -8096,6 +7801,29 @@
           "parser": true,
           "totalComments": 0,
           "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -273793303910900,
+          "name": "litematica-forge-1.12.2-0.0.0-dev.20191217.195055",
+          "favorite": false,
+          "version": {
+            "id": -273793320007600,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "f0daa84a8a235e3e441152e9517d4368968b99f6",
+              "size": 797401,
+              "path": "mods/litematica-forge-1.12.2-0.0.0-dev.20191217.195055/litematica-forge-1.12.2-0.0.0-dev.20191217.195055.jar",
+              "url": "mods/litematica-forge-1.12.2-0.0.0-dev.20191217.195055/litematica-forge-1.12.2-0.0.0-dev.20191217.195055.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
         }
       ],
       "resourcePacks": [
