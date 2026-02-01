@@ -145,105 +145,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 349559,
-          "name": "FallingTree",
-          "author": "raksrinana",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/falling-tree",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 22,
-              "name": "mc_miscellaneous",
-              "shortName": "mixed",
-              "nesting": 0
-            },
-            {
-              "id": 23,
-              "name": "world_ores_resources",
-              "shortName": "ores",
-              "nesting": 0
-            },
-            {
-              "id": 10,
-              "name": "technology_farming",
-              "shortName": "farming",
-              "nesting": 0
-            }
-          ],
-          "picture": 787411,
-          "pictures": [],
-          "lanName": "falling-tree",
-          "version": {
-            "id": 3064035,
-            "name": "FallingTree-1.12.2-2.4.0",
-            "updateDate": 1600932165000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 1,
-                "name": "1.12.2"
-              }
-            ],
-            "metadata": {
-              "sha1": "20a91b4a9ca6b6ea4483d8044f9f4798f43c5232",
-              "size": 168418,
-              "path": "mods/FallingTree-1.12.2-2.4.0.jar",
-              "url": "/mods/349559/3064035/FallingTree-1.12.2-2.4.0.jar"
-            },
-            "installed": 2224697,
-            "available": false,
-            "remove": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 5,
-          "downloadMonth": 20469,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 204,
-              "name": "Mod Menu",
-              "gameEntityId": 308702,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 1295,
-              "name": "Fabric API",
-              "gameEntityId": 306612,
-              "dependencyType": "optional",
-              "available": false
-            },
-            {
-              "gameType": "mod",
-              "id": 1009,
-              "name": "Cloth Config API (FabricForgeNeoForge)",
-              "gameEntityId": 348521,
-              "dependencyType": "optional",
-              "available": false
-            }
-          ],
-          "lastGameVersion": {
-            "id": 66,
-            "name": "1.21.11"
-          },
-          "updated": 1759870800000,
-          "update": 1759870800000,
-          "downloadALL": 30708437,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
-          "stateGameElement": "active",
           "id": 280294,
           "name": "FPS Reducer",
           "author": "bre2el",
@@ -7824,6 +7725,327 @@
           "available": false,
           "parser": false,
           "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -274976984056800,
+          "name": "Fapcraft.1.12.2.v1.1",
+          "favorite": false,
+          "version": {
+            "id": -274977150292799,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "f53e08bbe16f25240af25793600e76ea854b731a",
+              "size": 45827797,
+              "path": "mods/Fapcraft.1.12.2.v1.1.jar",
+              "url": "mods/Fapcraft.1.12.2.v1.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1099583,
+          "name": "Ping + FPS",
+          "author": "awesome_hippo",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/ping-fps",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            }
+          ],
+          "picture": 951052,
+          "pictures": [
+            961550
+          ],
+          "lanName": "ping-fps",
+          "version": {
+            "id": 5724722,
+            "name": "PingPlusFPS-1.0",
+            "updateDate": 1726381473000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "f3c6206ae163b8851347e9bc7c2dbc1cafef1c83",
+              "size": 4935,
+              "path": "mods/PingPlusFPS-1.0.jar",
+              "url": "/mods/1099583/5724722/PingPlusFPS-1.0.jar"
+            },
+            "installed": 10040,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 31,
+            "name": "1.16.5"
+          },
+          "updated": 1726347600000,
+          "update": 1726347600000,
+          "downloadALL": 23625,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 252848,
+          "name": "Nature's Compass",
+          "author": "Chaosyr",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/natures-compass",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 14,
+              "name": "world_biomes",
+              "shortName": "biomes",
+              "nesting": 0
+            },
+            {
+              "id": 5,
+              "name": "technology",
+              "shortName": "technology",
+              "nesting": 0
+            },
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            }
+          ],
+          "picture": 787814,
+          "pictures": [
+            18381,
+            234839,
+            234840
+          ],
+          "lanName": "natures-compass",
+          "version": {
+            "id": 2893527,
+            "name": "NaturesCompass-1.12.2-1.8.5",
+            "updateDate": 1583183665000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "60bcf179cab708f67bbce98d201e82f3e7be9266",
+              "size": 196434,
+              "path": "mods/NaturesCompass-1.12.2-1.8.5.jar",
+              "url": "/mods/252848/2893527/NaturesCompass-1.12.2-1.8.5.jar"
+            },
+            "installed": 669338,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 5831,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1761339600000,
+          "update": 1761339600000,
+          "downloadALL": 8160686,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 283013,
+          "name": "JEI Villagers",
+          "author": "Buuz135",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/jei-villagers",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            }
+          ],
+          "picture": 845861,
+          "pictures": [],
+          "lanName": "jei-villagers",
+          "version": {
+            "id": 2508393,
+            "name": "jeivillagers-1.12-1.0.2",
+            "updateDate": 1512853200000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              },
+              {
+                "id": 2,
+                "name": "1.12.1"
+              },
+              {
+                "id": 3,
+                "name": "1.12"
+              }
+            ],
+            "metadata": {
+              "sha1": "82caaf16ae378d2e2eea9ecd58e9b8fe46ecb194",
+              "size": 26491,
+              "path": "mods/jeivillagers-1.12-1.0.2.jar",
+              "url": "/mods/283013/2508393/jeivillagers-1.12-1.0.2.jar"
+            },
+            "installed": 33984,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 80,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1512853200000,
+          "update": 1512853200000,
+          "downloadALL": 43971,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 242223,
+          "name": "Just Enough Calculation",
+          "author": "Towdium",
+          "uuid": "7d6a72e4-c34d-11ea-8f8c-b42e996a7d7a",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/just-enough-calculation",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            }
+          ],
+          "picture": 844750,
+          "pictures": [
+            17007,
+            16996,
+            16993,
+            17014,
+            17000
+          ],
+          "lanName": "just-enough-calculation",
+          "version": {
+            "id": 3524685,
+            "name": "1.12.2-3.2.7",
+            "updateDate": 1636771066000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "af07e8e6567e910f679b14f9b67b23da3213eeb2",
+              "size": 298222,
+              "path": "mods/JustEnoughCalculation-1.12.2-3.2.7.jar",
+              "url": "/mods/242223/3524685/JustEnoughCalculation-1.12.2-3.2.7.jar"
+            },
+            "installed": 5703,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 54,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1707339600000,
+          "update": 1707339600000,
+          "downloadALL": 69539,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
         }
       ],
       "resourcePacks": [

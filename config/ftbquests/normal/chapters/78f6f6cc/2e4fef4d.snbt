@@ -1,0 +1,19 @@
+{
+	x: 5.0d,
+	y: 0.0d,
+	dependencies: [
+		"3ff5d571"
+	],
+	tasks: [{
+		uid: "25fb841a",
+		type: "item",
+		items: [{
+			item: "minecraft:stone_pickaxe"
+		},
+		{
+			item: "mekanismtools:stonepaxel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

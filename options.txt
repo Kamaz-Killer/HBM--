@@ -4,14 +4,14 @@ mouseSensitivity:0.5
 fov:1.0
 gamma:1.0
 saturation:0.0
-renderDistance:8
+renderDistance:12
 guiScale:4
 particles:0
 bobView:true
 anaglyph3d:false
 maxFps:180
 fboEnable:true
-difficulty:2
+difficulty:3
 fancyGraphics:true
 ao:2
 renderClouds:true
@@ -139,7 +139,7 @@ key_key.jei.toggleBookmarkOverlay:0
 key_bbw.key.mode:50
 key_bbw.key.fluidmode:33:ALT
 key_key.cofh.multimode:47
-key_key.keyExtraInvo:45
+key_key.keyExtraInvo:15
 key_key.keyWheel:19
 key_key.keyExtraCraftin:0
 key_key.draconicevolution.placeItem:25
@@ -152,6 +152,8 @@ key_key.draconicevolution.cycleDigAOE:0
 key_key.draconicevolution.cycleAttackAOE:0
 key_key.draconicevolution.toggleShields:0
 key_Dynamic Lights toggle:38
+key_Interact with your goblin:34
+key_open character customisation menu:76
 key_FpsReducer.key.guiOpen:207
 key_FpsReducer.key.forceIdle:197
 key_mekanism.key.mode:50
@@ -159,8 +161,8 @@ key_mekanism.key.armorMode:34
 key_mekanism.key.feetMode:35
 key_mekanism.key.voice:22
 key_invtweaks.key.sort:19
-key_Interact with your goblin:34
-key_open character customisation menu:76
+key_jecalculation.key.gui_craft:0
+key_jecalculation.key.gui_math:0
 key_key.clipboardPaste:210
 key_key.refinedstorage.focusSearchBar:15
 key_key.refinedstorage.clearGridCraftingMatrix:45:CONTROL
@@ -180,8 +182,8 @@ key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
 key_key.entityculling.toggle:-1
-soundCategory_master:0.25496688
-soundCategory_music:1.0
+soundCategory_master:0.15562914
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

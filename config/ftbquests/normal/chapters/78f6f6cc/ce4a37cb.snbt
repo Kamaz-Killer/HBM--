@@ -1,0 +1,28 @@
+{
+	title: "Первая энергия",
+	x: 8.0d,
+	y: 1.5d,
+	dependencies: [
+		"c85eba1e"
+	],
+	tasks: [{
+		uid: "3b44976c",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:dynamo",
+			tag: {
+				RSControl: 0b,
+				Facing: 1b,
+				Energy: 0,
+				Level: 0b
+			}
+		}]
+	},
+	{
+		uid: "219c953f",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_0"
+		}]
+	}]
+}

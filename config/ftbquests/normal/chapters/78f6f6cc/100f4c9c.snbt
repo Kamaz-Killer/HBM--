@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "a4eb4754",
+		type: "item",
+		items: [{
+			id: "minecraft:log",
+			tag: {
+				display: {
+					Name: "Первый шаг"
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipes>
+    <recipe name="CUSTOM_EGG_TO_MOLTEN_IRON" tier="1" hidden="false">
+        <!-- Многоблочная Плавильня (Blast Furnace) -->
+        <machine>Blast Furnace</machine>
+        <!-- Время плавления в тиках (5 секунд) -->
+        <duration>100</duration>
+        <!-- Вход: 1 куриное яйцо -->
+        <input>
+            <item name="minecraft:egg" count="1"/>
+        </input>
+        <!-- Выход: 1000 мБ (1 ведро) жидкого железа -->
+        <output>
+            <fluid name="iron" amount="1000"/>
+        </output>
+    </recipe>
+</recipes>

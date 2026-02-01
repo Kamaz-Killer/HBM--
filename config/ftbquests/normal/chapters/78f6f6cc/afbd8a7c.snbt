@@ -1,0 +1,17 @@
+{
+	x: 1.5d,
+	y: -1.5d,
+	shape: "circle",
+	dependencies: [
+		"100f4c9c"
+	],
+	dependency_requirement: "one_started",
+	optional: true,
+	tasks: [{
+		uid: "093feea9",
+		type: "item",
+		items: [{
+			item: "minecraft:stick"
+		}]
+	}]
+}

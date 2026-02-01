@@ -1,0 +1,20 @@
+{
+	x: 7.0d,
+	y: 0.0d,
+	dependencies: [
+		"1e9014a1"
+	],
+	dependency_requirement: "one_started",
+	tasks: [{
+		uid: "2e3efe26",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_pickaxe"
+		},
+		{
+			item: "thermalfoundation:tool.hammer_iron"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

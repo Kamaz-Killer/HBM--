@@ -223,12 +223,12 @@
     "curseForgeHash": 2050253455,
     "modrinthHash": "9f9a217b23626cb338cf229054ed490d913610dc"
   },
-  "FallingTree-1.12.2-2.4.0.jar": {
-    "jarName": "FallingTree-1.12.2-2.4.0.jar",
-    "modId": "falling_tree",
-    "version": "2.4.0",
-    "curseForgeHash": 2656032543,
-    "modrinthHash": "20a91b4a9ca6b6ea4483d8044f9f4798f43c5232"
+  "Fapcraft.1.12.2.v1.1.jar": {
+    "jarName": "Fapcraft.1.12.2.v1.1.jar",
+    "modId": "sexmod",
+    "version": "1.1.0",
+    "curseForgeHash": 3856973964,
+    "modrinthHash": "f53e08bbe16f25240af25793600e76ea854b731a"
   },
   "ForgeEndertech-1.12.2-4.5.6.1-build.0648.jar": {
     "jarName": "ForgeEndertech-1.12.2-4.5.6.1-build.0648.jar",
@@ -370,12 +370,19 @@
     "curseForgeHash": 1053708721,
     "modrinthHash": "54228a056a85fa146503cc7a20d3cf67fd55865f"
   },
-  "Jenny-Mod-Forge-1.12.2-v1.9.0.jar": {
-    "jarName": "Jenny-Mod-Forge-1.12.2-v1.9.0.jar",
-    "modId": "sexmod",
-    "version": "1.8.0",
-    "curseForgeHash": 4180930911,
-    "modrinthHash": "5c310dac45d3a6039a9e182f948f1569af4683e2"
+  "jeivillagers-1.12-1.0.2.jar": {
+    "jarName": "jeivillagers-1.12-1.0.2.jar",
+    "modId": "jeivillagers",
+    "version": "1.12-1.0.2",
+    "curseForgeHash": 2772795985,
+    "modrinthHash": "82caaf16ae378d2e2eea9ecd58e9b8fe46ecb194"
+  },
+  "JustEnoughCalculation-1.12.2-3.2.7.jar": {
+    "jarName": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+    "modId": "jecalculation",
+    "version": "1.12.2-3.2.7",
+    "curseForgeHash": 427139212,
+    "modrinthHash": "af07e8e6567e910f679b14f9b67b23da3213eeb2"
   },
   "JustEnoughResources-1.12.2-0.9.2.60.jar": {
     "jarName": "JustEnoughResources-1.12.2-0.9.2.60.jar",
@@ -383,6 +390,13 @@
     "version": "0.9.2",
     "curseForgeHash": 537556958,
     "modrinthHash": "3d4c9b8bb4ad948c7e26b7becd1c836f8cb34d07"
+  },
+  "litematica-forge-1.12.2-0.0.0-dev.20191217.195055.jar": {
+    "jarName": "litematica-forge-1.12.2-0.0.0-dev.20191217.195055.jar",
+    "modId": "litematica",
+    "version": "0.0.0-dev.20191217.195055",
+    "curseForgeHash": 4234671877,
+    "modrinthHash": "f0daa84a8a235e3e441152e9517d4368968b99f6"
   },
   "lootr-1.12.2-0.6.2.jar": {
     "jarName": "lootr-1.12.2-0.6.2.jar",
@@ -475,6 +489,13 @@
     "curseForgeHash": 701644494,
     "modrinthHash": "b2ae04070cfa531647c88fea17f2cd229289e297"
   },
+  "NaturesCompass-1.12.2-1.8.5.jar": {
+    "jarName": "NaturesCompass-1.12.2-1.8.5.jar",
+    "modId": "naturescompass",
+    "version": "1.12.2-1.8.5",
+    "curseForgeHash": 198255722,
+    "modrinthHash": "60bcf179cab708f67bbce98d201e82f3e7be9266"
+  },
   "NTM-CE-1.12.2-1.5.2.1.jar": {
     "jarName": "NTM-CE-1.12.2-1.5.2.1.jar",
     "modId": "hbm",
@@ -507,6 +528,13 @@
     "version": "1.0-23.6",
     "curseForgeHash": 1284405660,
     "modrinthHash": "0febe14bdd007b13f6089a16a57d90e44646f041"
+  },
+  "PingPlusFPS-1.0.jar": {
+    "jarName": "PingPlusFPS-1.0.jar",
+    "modId": "stalkinv",
+    "version": "${version}",
+    "curseForgeHash": 1225601047,
+    "modrinthHash": "f3c6206ae163b8851347e9bc7c2dbc1cafef1c83"
   },
   "Placebo-1.12.2-1.6.1.jar": {
     "jarName": "Placebo-1.12.2-1.6.1.jar",
