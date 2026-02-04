@@ -1,5 +1,5 @@
-#Sun Feb 01 08:30:15 GMT 2026
-shaderPack=ComplementaryReimagined_r5.6.1.zip
+#Wed Feb 04 07:25:02 GMT 2026
+shaderPack=OFF
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true

@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-02-04 07:44:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2026-01-29 20:08:18 +0000"
@@ -23,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-02-04 07:44:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2026-01-29 19:54:01 +0000"
@@ -32,6 +44,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2026-01-29 20:08:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-02-04 07:44:13 +0000"
     },
     "done": true
   },
@@ -86,6 +104,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2026-01-29 19:54:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-02-04 07:44:13 +0000"
     },
     "done": true
   },
@@ -197,9 +221,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2026-02-04 07:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-02-04 07:44:13 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_cherry": {
     "criteria": {
       "entered_water": "2026-01-29 16:04:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-02-04 07:44:13 +0000"
     },
     "done": true
   },
@@ -226,6 +268,12 @@
       "has_iron_ingot": "2026-01-29 20:08:18 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "enchanted_golden_apple": "2026-02-04 07:41:06 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/shield": {
     "criteria": {
@@ -254,6 +302,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2026-01-29 20:08:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-02-04 07:44:13 +0000"
     },
     "done": true
   },
@@ -311,6 +365,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-02-04 07:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-02-04 07:44:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2026-02-01 09:00:54 +0000"
@@ -329,9 +395,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-02-04 07:44:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2026-01-30 09:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-02-04 07:44:13 +0000"
     },
     "done": true
   },
@@ -356,6 +434,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2026-01-29 19:54:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-02-04 07:44:13 +0000"
     },
     "done": true
   },
@@ -440,6 +524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2026-02-04 07:44:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_log": "2026-01-30 12:28:56 +0000"
@@ -473,6 +563,12 @@
   "biomesoplenty:recipes/transportation/boat_willow": {
     "criteria": {
       "entered_water": "2026-01-29 16:04:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-02-04 07:44:13 +0000"
     },
     "done": true
   },
@@ -548,6 +644,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-02-04 07:44:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2026-01-29 19:54:01 +0000"
@@ -575,6 +677,12 @@
   "biomesoplenty:recipes/transportation/boat_jacaranda": {
     "criteria": {
       "entered_water": "2026-01-29 16:04:19 +0000"
+    },
+    "done": true
+  },
+  "hbm:achmanhattan": {
+    "criteria": {
+      "impossible": "2026-02-04 07:53:25 +0000"
     },
     "done": true
   },
@@ -724,6 +832,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-02-04 07:44:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2026-01-29 19:54:01 +0000"
@@ -733,6 +847,12 @@
   "minecraft:recipes/misc/gold_ingot_from_block": {
     "criteria": {
       "has_gold_block": "2026-01-30 10:56:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-02-04 07:44:13 +0000"
     },
     "done": true
   },

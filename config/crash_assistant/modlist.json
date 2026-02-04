@@ -11,10 +11,12 @@
     "curseForgeHash": 1494370398,
     "modrinthHash": "afec88671087ca9ebefff13893d8b952ff0b5603"
   },
-  "!mixinbooter-8.0.jar": {
-    "jarName": "!mixinbooter-8.0.jar",
-    "curseForgeHash": 392088075,
-    "modrinthHash": "0c9f6e6b3a14fce83f7237da572287561e752e8d"
+  "!mixinbooter-10.5.jar": {
+    "jarName": "!mixinbooter-10.5.jar",
+    "modId": "mixinbooter",
+    "version": "10.5",
+    "curseForgeHash": 2082192353,
+    "modrinthHash": "b54a69ed72273227d94c419d3b040ace7e0e0c68"
   },
   "3dSkinLayers-forge-mc1.12.2-1.2.0.jar": {
     "jarName": "3dSkinLayers-forge-mc1.12.2-1.2.0.jar",
@@ -76,6 +78,27 @@
     "version": "${version}",
     "curseForgeHash": 3876585781,
     "modrinthHash": "94d818e584fb044d4d11262134033d8119cee510"
+  },
+  "avaritia-1.12.2-3.3.0.48-hotfix3.jar": {
+    "jarName": "avaritia-1.12.2-3.3.0.48-hotfix3.jar",
+    "modId": "avaritia",
+    "version": "3.3.0.48",
+    "curseForgeHash": 238105379,
+    "modrinthHash": "5a239056bd2b1e099e432ad273e40504d0a77bb6"
+  },
+  "Avaritiaddons-1.12.2-1.9.jar": {
+    "jarName": "Avaritiaddons-1.12.2-1.9.jar",
+    "modId": "avaritiaddons",
+    "version": "1.12.2-1.8b",
+    "curseForgeHash": 3814997482,
+    "modrinthHash": "4955a50e614aef937a12033716baae5b890d53e0"
+  },
+  "avaritiarecipemaker-1.0.0.jar": {
+    "jarName": "avaritiarecipemaker-1.0.0.jar",
+    "modId": "avaritiarecipemaker",
+    "version": "1.0.0",
+    "curseForgeHash": 981646504,
+    "modrinthHash": "2af6f16ffd233707e816f7485b0bc492dad52b82"
   },
   "Baubles-1.12-1.5.2.jar": {
     "jarName": "Baubles-1.12-1.5.2.jar",
@@ -174,6 +197,13 @@
     "version": "1.12.2-1.4-pre11",
     "curseForgeHash": 1333343360,
     "modrinthHash": "db1a6463c37e0d4fd70272f423a80eaf00bce102"
+  },
+  "Draconic-Additions-1.12.2-1.17.0.45-universal.jar": {
+    "jarName": "Draconic-Additions-1.12.2-1.17.0.45-universal.jar",
+    "modId": "draconicadditions",
+    "version": "1.12.2-1.17.0.45",
+    "curseForgeHash": 14240401,
+    "modrinthHash": "6e4209f20bf109314477368864ce687f1a75d0dd"
   },
   "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar": {
     "jarName": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
@@ -306,6 +336,13 @@
     "version": "1.10.3",
     "curseForgeHash": 3366698974,
     "modrinthHash": "b2cc9a25054fd6878ba242a6080a2866140bbeb0"
+  },
+  "GravitationSuite_1.12.2_3.1.1.jar": {
+    "jarName": "GravitationSuite_1.12.2_3.1.1.jar",
+    "modId": "gravisuite",
+    "version": "3.1.1",
+    "curseForgeHash": 1763016778,
+    "modrinthHash": "1040529ce75fc685afe2e1fb407f516f02245c55"
   },
   "IndustrialCraft%20REBalanced-release_1.3.0.jar": {
     "jarName": "IndustrialCraft%20REBalanced-release_1.3.0.jar",
@@ -668,6 +705,13 @@
     "version": "1.8.20",
     "curseForgeHash": 4221184210,
     "modrinthHash": "86cf856ef0f6ce50d3df7bba4e93d082080d2ca8"
+  },
+  "WanionLib-1.12.2-2.91.jar": {
+    "jarName": "WanionLib-1.12.2-2.91.jar",
+    "modId": "wanionlib",
+    "version": "1.12.2-2.91",
+    "curseForgeHash": 3427414774,
+    "modrinthHash": "68196be7d926aee4fe8b5c0d535909c5b2ce3f2c"
   },
   "zombieawareness-1.12.1-1.11.16.jar": {
     "jarName": "zombieawareness-1.12.1-1.11.16.jar",
