@@ -1,6 +1,6 @@
 version:1343
 invertYMouse:false
-mouseSensitivity:0.46478873
+mouseSensitivity:0.5
 fov:1.0
 gamma:1.0
 saturation:0.0
@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:180
 fboEnable:true
-difficulty:2
+difficulty:3
 fancyGraphics:true
 ao:2
 renderClouds:true
@@ -61,7 +61,7 @@ key_key.right:32
 key_key.jump:57
 key_key.sneak:56
 key_key.sprint:42
-key_key.drop:12
+key_key.drop:16
 key_key.inventory:18
 key_key.chat:20
 key_key.playerlist:15
@@ -97,7 +97,6 @@ key_key.ftbultimine:41
 key_key.ftbutilities.nbt:49:ALT
 key_key.ftbutilities.trash:211
 key_key.ftbquests.quests:0
-key_Gravi Fly Key:33
 key_key.jetpack_activate:36
 key_key.jetpack_hover:35
 key_key.jetpack_hud:22
@@ -141,10 +140,10 @@ key_bbw.key.mode:50
 key_bbw.key.fluidmode:33:ALT
 key_key.cofh.multimode:47
 key_key.keyExtraInvo:15
-key_key.keyWheel:23
+key_key.keyWheel:19
 key_key.keyExtraCraftin:0
 key_key.draconicevolution.placeItem:25
-key_key.draconicevolution.toolConfig:43
+key_key.draconicevolution.toolConfig:0
 key_key.draconicevolution.toolProfileChange:43
 key_key.draconicevolution.armorProfileChange:43:ALT
 key_key.draconicevolution.toggleFlight:0
@@ -152,8 +151,6 @@ key_key.draconicevolution.toggleDislocator:0
 key_key.draconicevolution.cycleDigAOE:0
 key_key.draconicevolution.cycleAttackAOE:0
 key_key.draconicevolution.toggleShields:0
-key_key.overload:33:SHIFT
-key_key.chaosInjection:34:SHIFT
 key_Dynamic Lights toggle:38
 key_Interact with your goblin:34
 key_open character customisation menu:76
@@ -185,8 +182,8 @@ key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
 key_key.entityculling.toggle:-1
-soundCategory_master:0.705298
-soundCategory_music:0.943662
+soundCategory_master:0.15562914
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

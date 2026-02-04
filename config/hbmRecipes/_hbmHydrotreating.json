@@ -1,9 +1,9 @@
 {
   "recipes": [
     {
-      "input": "CRACKOIL",
-      "hydrogen": ["HYDROGEN",5,1],
-      "output1": ["CRACKOIL_DS",90],
+      "input": "COALOIL",
+      "hydrogen": ["HYDROGEN",10,1],
+      "output1": ["COALGAS",80],
       "output2": ["SOURGAS",15]
     },
     {
@@ -19,15 +19,9 @@
       "output2": ["SOURGAS",30]
     },
     {
-      "input": "DIESEL_CRACK",
-      "hydrogen": ["HYDROGEN",10,1],
-      "output1": ["DIESEL",80],
-      "output2": ["SOURGAS",30]
-    },
-    {
-      "input": "COALOIL",
-      "hydrogen": ["HYDROGEN",10,1],
-      "output1": ["COALGAS",80],
+      "input": "CRACKOIL",
+      "hydrogen": ["HYDROGEN",5,1],
+      "output1": ["CRACKOIL_DS",90],
       "output2": ["SOURGAS",15]
     },
     {
@@ -35,6 +29,12 @@
       "hydrogen": ["HYDROGEN",5,1],
       "output1": ["PETROLEUM",80],
       "output2": ["SOURGAS",15]
+    },
+    {
+      "input": "DIESEL_CRACK",
+      "hydrogen": ["HYDROGEN",10,1],
+      "output1": ["DIESEL",80],
+      "output2": ["SOURGAS",30]
     }
   ]
 }
