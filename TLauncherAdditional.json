@@ -6215,112 +6215,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 419286,
-          "name": "MixinBooter",
-          "author": "rongmario",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/mixin-booter",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 7,
-              "name": "library_api",
-              "shortName": "api",
-              "nesting": 0
-            }
-          ],
-          "picture": 800566,
-          "pictures": [],
-          "lanName": "mixin-booter",
-          "version": {
-            "id": 4556962,
-            "name": "!mixinbooter-8.0",
-            "updateDate": 1685328759000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 1,
-                "name": "1.12.2"
-              },
-              {
-                "id": 2,
-                "name": "1.12.1"
-              },
-              {
-                "id": 3,
-                "name": "1.12"
-              },
-              {
-                "id": 4,
-                "name": "1.11.2"
-              },
-              {
-                "id": 5,
-                "name": "1.11"
-              },
-              {
-                "id": 6,
-                "name": "1.10.2"
-              },
-              {
-                "id": 20,
-                "name": "1.10"
-              },
-              {
-                "id": 7,
-                "name": "1.9.4"
-              },
-              {
-                "id": 8,
-                "name": "1.9"
-              },
-              {
-                "id": 9,
-                "name": "1.8.9"
-              },
-              {
-                "id": 10,
-                "name": "1.8.8"
-              },
-              {
-                "id": 11,
-                "name": "1.8"
-              }
-            ],
-            "metadata": {
-              "sha1": "0c9f6e6b3a14fce83f7237da572287561e752e8d",
-              "size": 1734855,
-              "path": "mods/!mixinbooter-8.0.jar",
-              "url": "/mods/419286/4556962/!mixinbooter-8.0.jar"
-            },
-            "installed": 1832,
-            "available": false,
-            "remove": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 4,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 1,
-            "name": "1.12.2"
-          },
-          "updated": 1759179600000,
-          "update": 1759179600000,
-          "downloadALL": 423626,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
-          "stateGameElement": "active",
           "id": 239197,
           "name": "CraftTweaker",
           "author": "jaredlll08 StanH",
@@ -8046,6 +7940,672 @@
           "parser": true,
           "totalComments": 0,
           "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 314515,
+          "name": "Draconic Additions",
+          "author": "FoxMcloud5655",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/draconicadditions",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 5,
+              "name": "technology",
+              "shortName": "technology",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            },
+            {
+              "id": 12,
+              "name": "technology_energy",
+              "shortName": "energy",
+              "nesting": 0
+            }
+          ],
+          "picture": 845237,
+          "pictures": [
+            71662
+          ],
+          "lanName": "draconicadditions",
+          "version": {
+            "id": 3514704,
+            "name": "Draconic-Additions-1.12.2-1.17.0.45-universal",
+            "updateDate": 1635975464000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "6e4209f20bf109314477368864ce687f1a75d0dd",
+              "size": 904852,
+              "path": "mods/Draconic-Additions-1.12.2-1.17.0.45-universal.jar",
+              "url": "/mods/314515/3514704/Draconic-Additions-1.12.2-1.17.0.45-universal.jar"
+            },
+            "installed": 86119,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 3,
+          "downloadMonth": 388,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 138,
+              "name": "Brandon's Core",
+              "gameEntityId": 231382,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 1428,
+              "name": "Draconic Evolution",
+              "gameEntityId": 223565,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 9,
+              "name": "Curios API (ForgeNeoForge)",
+              "gameEntityId": 309927,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1738357200000,
+          "update": 1738357200000,
+          "downloadALL": 266472,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 253590,
+          "name": "Gravitation Suite",
+          "author": "Chocohead",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/gravitation-suite",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 28,
+              "name": "addons_industrialcraft",
+              "shortName": "industrialcraft",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 5,
+              "name": "technology",
+              "shortName": "technology",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            },
+            {
+              "id": 12,
+              "name": "technology_energy",
+              "shortName": "energy",
+              "nesting": 0
+            }
+          ],
+          "picture": 9626,
+          "pictures": [],
+          "lanName": "gravitation-suite",
+          "version": {
+            "id": 11000661,
+            "name": "1.12.2_3.1.1",
+            "updateDate": 1592254800000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "1040529ce75fc685afe2e1fb407f516f02245c55",
+              "size": 345616,
+              "path": "mods/GravitationSuite_1.12.2_3.1.1.jar",
+              "url": "/mods/253590/11000661/GravitationSuite1.12.23.1.1.jar"
+            },
+            "installed": 82364,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 4,
+          "downloadMonth": 606,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 207,
+              "name": "Industrial Craft",
+              "gameEntityId": 242638,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 668,
+              "name": "IC2 Classic",
+              "gameEntityId": 242942,
+              "dependencyType": "incompatible",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1555565460000,
+          "update": 1555565460000,
+          "downloadALL": 365368,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1165010,
+          "name": "Avaritia 1.1x Unofficial Extended Life",
+          "author": "xXjudeXx",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/avaritia-1-1x-unofficial",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            }
+          ],
+          "picture": 1139156,
+          "pictures": [
+            989586,
+            1067901,
+            1263133,
+            989583,
+            1263134,
+            1263136,
+            1263135,
+            1027347
+          ],
+          "lanName": "avaritia-1-1x-unofficial",
+          "version": {
+            "id": 7472699,
+            "name": "avaritia-1.12.2-3.3.0.48-hotfix3",
+            "updateDate": 1768644137000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "5a239056bd2b1e099e432ad273e40504d0a77bb6",
+              "size": 1158074,
+              "path": "mods/avaritia-1.12.2-3.3.0.48-hotfix3.jar",
+              "url": "/mods/1165010/7472699/avaritia-1.12.2-3.3.0.48-hotfix3.jar"
+            },
+            "installed": 128,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 781,
+              "name": "MixinBooter",
+              "gameEntityId": 419286,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 28,
+              "name": "Thaumcraft",
+              "gameEntityId": 223628,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 16508,
+              "name": "Avaritia 1.1x Kedition",
+              "gameEntityId": 913129,
+              "dependencyType": "incompatible",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 45,
+              "name": "Botania",
+              "gameEntityId": 225643,
+              "dependencyType": "optional",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 6111,
+              "name": "Avaritia 1.1x",
+              "gameEntityId": 261348,
+              "dependencyType": "incompatible",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 136,
+              "name": "CodeChicken Lib 1.8.+",
+              "gameEntityId": 242818,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 227,
+              "name": "Blood Magic",
+              "gameEntityId": 224791,
+              "dependencyType": "optional",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1768597200000,
+          "update": 1768597200000,
+          "downloadALL": 2561,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 419286,
+          "name": "MixinBooter",
+          "author": "rongmario",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/mixin-booter",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 800566,
+          "pictures": [],
+          "lanName": "mixin-booter",
+          "version": {
+            "id": 6156863,
+            "name": "!mixinbooter-10.5",
+            "updateDate": 1738666687000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              },
+              {
+                "id": 2,
+                "name": "1.12.1"
+              },
+              {
+                "id": 3,
+                "name": "1.12"
+              },
+              {
+                "id": 4,
+                "name": "1.11.2"
+              },
+              {
+                "id": 5,
+                "name": "1.11"
+              },
+              {
+                "id": 6,
+                "name": "1.10.2"
+              },
+              {
+                "id": 20,
+                "name": "1.10"
+              },
+              {
+                "id": 7,
+                "name": "1.9.4"
+              },
+              {
+                "id": 8,
+                "name": "1.9"
+              },
+              {
+                "id": 9,
+                "name": "1.8.9"
+              },
+              {
+                "id": 10,
+                "name": "1.8.8"
+              },
+              {
+                "id": 11,
+                "name": "1.8"
+              }
+            ],
+            "metadata": {
+              "sha1": "b54a69ed72273227d94c419d3b040ace7e0e0c68",
+              "size": 2380953,
+              "path": "mods/!mixinbooter-10.5.jar",
+              "url": "/mods/419286/6156863/!mixinbooter-10.5.jar"
+            },
+            "installed": 16586,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 4,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1759179600000,
+          "update": 1759179600000,
+          "downloadALL": 426348,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 301144,
+          "name": "Avaritia Recipe Generator",
+          "author": "techdweebplays",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/avaritia-recipe-generator",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            },
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            }
+          ],
+          "picture": 845985,
+          "pictures": [],
+          "lanName": "avaritia-recipe-generator",
+          "version": {
+            "id": 2605409,
+            "name": "avaritiarecipemaker-1.0.0",
+            "updateDate": 1534639587000,
+            "type": "beta",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "2af6f16ffd233707e816f7485b0bc492dad52b82",
+              "size": 40986,
+              "path": "mods/avaritiarecipemaker-1.0.0.jar",
+              "url": "/mods/301144/2605409/avaritiarecipemaker-1.0.0.jar"
+            },
+            "installed": 79651,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 193,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1534626000000,
+          "update": 1534626000000,
+          "downloadALL": 79643,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 248873,
+          "name": "Avaritiaddons",
+          "author": "WanionCane Maycke25 SteelShot",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/avaritiaddons",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 83,
+              "name": "storage",
+              "shortName": "storage",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            }
+          ],
+          "picture": 846208,
+          "pictures": [
+            21618
+          ],
+          "lanName": "avaritiaddons",
+          "version": {
+            "id": 4745387,
+            "name": "1.12.2-1.9",
+            "updateDate": 1694265227000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "4955a50e614aef937a12033716baae5b890d53e0",
+              "size": 253753,
+              "path": "mods/Avaritiaddons-1.12.2-1.9.jar",
+              "url": "/mods/248873/4745387/Avaritiaddons-1.12.2-1.9.jar"
+            },
+            "installed": 16271,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 3,
+          "downloadMonth": 250,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1694206800000,
+          "update": 1694206800000,
+          "downloadALL": 112201,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 253043,
+          "name": "WanionLib",
+          "author": "WanionCane",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/wanionlib",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 844521,
+          "pictures": [],
+          "lanName": "wanionlib",
+          "version": {
+            "id": 4623135,
+            "name": "1.12.2-2.91",
+            "updateDate": 1688389193000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "68196be7d926aee4fe8b5c0d535909c5b2ce3f2c",
+              "size": 223035,
+              "path": "mods/WanionLib-1.12.2-2.91.jar",
+              "url": "/mods/253043/4623135/WanionLib-1.12.2-2.91.jar"
+            },
+            "installed": 24409,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 49,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1688331600000,
+          "update": 1688331600000,
+          "downloadALL": 78549,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -628436329394100,
+          "name": "!mixinbooter-8.0",
+          "favorite": false,
+          "version": {
+            "id": -628436334709100,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "0c9f6e6b3a14fce83f7237da572287561e752e8d",
+              "size": 1734855,
+              "path": "mods/!mixinbooter-8.0.jar",
+              "url": "mods/!mixinbooter-8.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
         }
       ],
       "resourcePacks": [
@@ -8703,7 +9263,7 @@
       ],
       "shaderpacks": [
         {
-          "stateGameElement": "active",
+          "stateGameElement": "no_active",
           "id": 627557,
           "name": "Complementary Shaders - Reimagined",
           "author": "emingtr",
