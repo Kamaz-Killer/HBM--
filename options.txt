@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:180
 fboEnable:true
-difficulty:2
+difficulty:1
 fancyGraphics:true
 ao:2
 renderClouds:true
@@ -25,7 +25,7 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
-fullscreen:true
+fullscreen:false
 enableVsync:false
 useVbo:true
 hideServerAddress:false
@@ -88,7 +88,7 @@ key_key.hotbar.9:10
 key_of.key.zoom:46
 key_ALT Key:56
 key_Boost Key:29
-key_Mode Switch Key:50
+key_Mode Switch Key:-97
 key_Side Inventory Key:0
 key_Hub Expand Key:45
 key_keybind.baublesinventory:48
@@ -141,7 +141,7 @@ key_bbw.key.mode:50
 key_bbw.key.fluidmode:33:ALT
 key_key.cofh.multimode:47
 key_key.keyExtraInvo:15
-key_key.keyWheel:19
+key_key.keyWheel:201
 key_key.keyExtraCraftin:0
 key_key.draconicevolution.placeItem:25
 key_key.draconicevolution.toolConfig:0
@@ -159,8 +159,8 @@ key_Interact with your goblin:34
 key_open character customisation menu:76
 key_FpsReducer.key.guiOpen:207
 key_FpsReducer.key.forceIdle:197
-key_mekanism.key.mode:50
-key_mekanism.key.armorMode:34
+key_mekanism.key.mode:49
+key_mekanism.key.armorMode:80
 key_mekanism.key.feetMode:35
 key_mekanism.key.voice:22
 key_invtweaks.key.sort:19
@@ -185,7 +185,7 @@ key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
 key_key.entityculling.toggle:-1
-soundCategory_master:0.53642386
+soundCategory_master:0.95364237
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

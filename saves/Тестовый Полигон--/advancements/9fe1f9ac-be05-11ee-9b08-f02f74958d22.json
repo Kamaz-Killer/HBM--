@@ -1,7 +1,7 @@
 {
-  "biomesoplenty:recipes/transportation/boat_ethereal": {
+  "minecraft:recipes/redstone/noteblock": {
     "criteria": {
-      "entered_water": "2026-02-04 17:48:25 +0000"
+      "has_redstone": "2026-02-05 19:15:39 +0000"
     },
     "done": true
   },
@@ -11,27 +11,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_cherry": {
+  "hbm:digammasee": {
     "criteria": {
-      "entered_water": "2026-02-04 17:48:25 +0000"
+      "impossible": "2026-02-05 18:05:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:recipes/tools/compass": {
     "criteria": {
-      "entered_water": "2026-02-04 17:48:24 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_jacaranda": {
-    "criteria": {
-      "entered_water": "2026-02-04 17:48:25 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_umbran": {
-    "criteria": {
-      "entered_water": "2026-02-04 17:48:25 +0000"
+      "has_redstone": "2026-02-05 19:15:39 +0000"
     },
     "done": true
   },
@@ -41,16 +29,50 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
+  "hbm:achdesh": {
     "criteria": {
-      "skeleton": "2026-02-04 17:49:33 +0000"
+      "crafting_hbm_ingot_desh": "2026-02-05 19:56:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "mountain_foothills": "2026-02-05 18:17:37 +0000",
       "snowy_forest": "2026-02-04 17:50:00 +0000",
+      "seasonal_forest": "2026-02-05 18:17:14 +0000",
+      "meadow": "2026-02-05 18:16:20 +0000",
+      "lush_swamp": "2026-02-05 18:15:55 +0000",
+      "grassland": "2026-02-05 18:16:15 +0000",
       "tundra": "2026-02-04 18:07:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2026-02-05 18:58:46 +0000"
+    },
+    "done": true
+  },
+  "hbm:digammafeel": {
+    "criteria": {
+      "impossible": "2026-02-05 18:06:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2026-02-05 19:06:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2026-02-05 18:15:19 +0000",
+      "plains": "2026-02-05 18:17:15 +0000",
+      "taiga": "2026-02-04 16:40:16 +0000",
+      "taiga_hills": "2026-02-04 16:33:24 +0000",
+      "extreme_hills": "2026-02-04 18:01:19 +0000",
+      "river": "2026-02-04 16:40:19 +0000"
     },
     "done": false
   },
@@ -60,14 +82,17 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:recipes/redstone/redstone": {
     "criteria": {
-      "taiga": "2026-02-04 16:40:16 +0000",
-      "taiga_hills": "2026-02-04 16:33:24 +0000",
-      "extreme_hills": "2026-02-04 18:01:19 +0000",
-      "river": "2026-02-04 16:40:19 +0000"
+      "has_the_recipe": "2026-02-05 19:16:07 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2026-02-05 19:26:51 +0000"
+    },
+    "done": true
   },
   "minecraft:husbandry/root": {
     "criteria": {
@@ -75,15 +100,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_magic": {
+  "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
-      "entered_water": "2026-02-04 17:48:25 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_ebony": {
-    "criteria": {
-      "entered_water": "2026-02-04 17:48:24 +0000"
+      "has_redstone": "2026-02-05 19:15:39 +0000"
     },
     "done": true
   },
@@ -99,9 +118,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_hellbark": {
+  "hbm:achradpoison": {
     "criteria": {
-      "entered_water": "2026-02-04 17:48:24 +0000"
+      "impossible": "2026-02-05 18:05:30 +0000"
     },
     "done": true
   },
@@ -111,21 +130,15 @@
     },
     "done": true
   },
-  "mutantbeasts:root": {
-    "criteria": {
-      "killed_something": "2026-02-04 16:42:05 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/boat_sacred_oak": {
     "criteria": {
       "entered_water": "2026-02-04 17:48:25 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_mangrove": {
+  "biomesoplenty:recipes/buildingblocks/ethereal_planks": {
     "criteria": {
-      "entered_water": "2026-02-04 17:48:25 +0000"
+      "has_log": "2026-02-05 18:59:09 +0000"
     },
     "done": true
   },
@@ -141,9 +154,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_palm": {
+  "hbm:achpolymer": {
     "criteria": {
-      "entered_water": "2026-02-04 17:48:24 +0000"
+      "crafting_hbm_ingot_polymer": "2026-02-05 20:10:11 +0000"
+    },
+    "done": true
+  },
+  "hbm:achschrab": {
+    "criteria": {
+      "crafting_hbm_ingot_schrabidium": "2026-02-05 17:50:42 +0000"
     },
     "done": true
   },
@@ -153,21 +172,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2026-02-05 18:10:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2026-02-04 16:42:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/boat": {
+  "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
-      "entered_water": "2026-02-04 17:48:24 +0000"
+      "has_stone": "2026-02-05 18:10:39 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_eucalyptus": {
+  "minecraft:recipes/transportation/boat": {
     "criteria": {
-      "entered_water": "2026-02-04 17:48:25 +0000"
+      "entered_water": "2026-02-04 17:48:24 +0000"
     },
     "done": true
   },
@@ -178,6 +203,186 @@
     "done": true
   },
   "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2026-02-04 17:48:25 +0000"
+    },
+    "done": true
+  },
+  "scp:recipes": {
+    "criteria": {
+      "hasitems": "2026-02-05 10:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2026-02-05 19:11:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_ethereal": {
+    "criteria": {
+      "entered_water": "2026-02-04 17:48:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2026-02-05 19:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2026-02-04 17:48:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_cherry": {
+    "criteria": {
+      "entered_water": "2026-02-04 17:48:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_jacaranda": {
+    "criteria": {
+      "entered_water": "2026-02-04 17:48:25 +0000"
+    },
+    "done": true
+  },
+  "hbm:achmanhattan": {
+    "criteria": {
+      "impossible": "2026-02-05 19:31:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_umbran": {
+    "criteria": {
+      "entered_water": "2026-02-04 17:48:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "skeleton": "2026-02-04 17:49:33 +0000"
+    },
+    "done": false
+  },
+  "hbm:achraddeath": {
+    "criteria": {
+      "impossible": "2026-02-05 18:05:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/sand_from_dried_sand": {
+    "criteria": {
+      "has_gem_block": "2026-02-05 19:06:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2026-02-05 19:16:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2026-02-05 18:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2026-02-05 19:15:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/mud_from_dirt": {
+    "criteria": {
+      "has_gem_block": "2026-02-05 19:06:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_iron_block": "2026-02-05 10:38:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_ebony": {
+    "criteria": {
+      "entered_water": "2026-02-04 17:48:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_magic": {
+    "criteria": {
+      "entered_water": "2026-02-04 17:48:25 +0000"
+    },
+    "done": true
+  },
+  "hbm:root": {
+    "criteria": {
+      "crafting_table": "2026-02-05 10:59:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_hellbark": {
+    "criteria": {
+      "entered_water": "2026-02-04 17:48:24 +0000"
+    },
+    "done": true
+  },
+  "hbm:digammaknow": {
+    "criteria": {
+      "impossible": "2026-02-06 09:54:33 +0000"
+    },
+    "done": true
+  },
+  "mutantbeasts:root": {
+    "criteria": {
+      "killed_something": "2026-02-04 16:42:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_mangrove": {
+    "criteria": {
+      "entered_water": "2026-02-04 17:48:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2026-02-05 10:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2026-02-05 18:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2026-02-05 19:15:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_palm": {
+    "criteria": {
+      "entered_water": "2026-02-04 17:48:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2026-02-05 10:38:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_eucalyptus": {
     "criteria": {
       "entered_water": "2026-02-04 17:48:25 +0000"
     },

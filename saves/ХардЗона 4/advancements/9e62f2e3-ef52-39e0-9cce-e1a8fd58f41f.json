@@ -299,6 +299,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2026-02-02 19:57:25 +0000"
+    },
+    "done": true
+  },
+  "hbm:achburnerpress": {
+    "criteria": {
+      "crafting_hbm_machine_press": "2026-02-01 18:31:37 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/white_dye_from_white_anemone": {
     "criteria": {
       "has_flower": "2026-01-31 17:07:39 +0000"
@@ -329,8 +341,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2026-02-02 19:25:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2026-02-02 18:06:26 +0000",
+      "potato": "2026-02-02 18:03:52 +0000",
+      "bread": "2026-02-02 19:09:51 +0000",
       "carrot": "2026-01-31 21:23:58 +0000"
     },
     "done": false
@@ -350,6 +371,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2026-01-31 17:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_red_sandstone": "2026-02-02 18:22:03 +0000"
     },
     "done": true
   },
@@ -509,6 +536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2026-02-02 19:42:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2026-01-31 17:39:28 +0000"
@@ -519,11 +552,15 @@
     "criteria": {
       "shrubland": "2026-01-31 18:09:26 +0000",
       "xeric_shrubland": "2026-01-31 18:17:02 +0000",
+      "highland": "2026-02-02 18:30:45 +0000",
       "bog": "2026-01-31 19:11:31 +0000",
       "outback": "2026-01-31 18:15:31 +0000",
+      "visceral_heap": "2026-02-01 18:47:00 +0000",
       "pasture": "2026-01-31 17:06:47 +0000",
+      "meadow": "2026-02-02 19:45:48 +0000",
       "grassland": "2026-01-31 17:48:04 +0000",
       "prairie": "2026-01-31 17:02:37 +0000",
+      "grove": "2026-02-02 18:32:09 +0000",
       "brushland": "2026-01-31 17:40:16 +0000"
     },
     "done": false
@@ -591,6 +628,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2026-01-31 18:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2026-02-02 17:29:26 +0000"
     },
     "done": true
   },
@@ -758,9 +801,19 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "zombie": "2026-01-31 21:24:17 +0000"
+      "zombie_villager": "2026-02-02 19:51:38 +0000",
+      "skeleton": "2026-02-02 19:42:33 +0000",
+      "zombie": "2026-01-31 21:24:17 +0000",
+      "spider": "2026-02-02 18:19:14 +0000",
+      "creeper": "2026-02-02 18:33:13 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2026-02-02 19:25:56 +0000"
+    },
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -801,6 +854,18 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2026-01-31 18:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-02-02 19:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2026-02-02 18:22:03 +0000"
     },
     "done": true
   },
@@ -870,6 +935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_block": {
+    "criteria": {
+      "has_brick": "2026-02-01 18:37:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2026-01-31 18:35:15 +0000"
@@ -879,6 +950,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2026-01-31 18:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2026-02-02 19:42:35 +0000"
     },
     "done": true
   },
@@ -1188,9 +1265,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2026-02-02 19:25:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2026-01-31 17:37:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2026-02-03 18:57:06 +0000"
     },
     "done": true
   },
@@ -1209,6 +1298,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2026-01-31 18:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2026-02-02 18:22:03 +0000"
     },
     "done": true
   },
@@ -1442,6 +1537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2026-02-02 19:57:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2026-01-31 17:07:01 +0000"
@@ -1469,6 +1570,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2026-01-31 18:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2026-02-01 18:37:49 +0000"
     },
     "done": true
   },
@@ -1526,9 +1633,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2026-02-02 18:22:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2026-01-31 18:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2026-02-02 19:57:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2026-02-02 19:25:56 +0000"
     },
     "done": true
   },
@@ -1559,6 +1684,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2026-01-31 18:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2026-02-01 18:32:35 +0000"
     },
     "done": true
   },

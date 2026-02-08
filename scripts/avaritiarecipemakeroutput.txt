@@ -1,0 +1,8 @@
+// Corrupted Dragon Heart
+recipes.remove(<draconicadditions:chaos_heart>);
+mods.avaritia.ExtremeCrafting.addShaped("NAMEPLACEHOLDER", <draconicadditions:chaos_heart> * 1, [[null, null, null, null, null, null, null, null, null], [null, null, <hbm:ingot_combine_steel>, null, null, null, <hbm:ingot_combine_steel>, null, null],[null, <hbm:ingot_combine_steel>, <hbm:ingot_bscco>, <hbm:ingot_combine_steel>, null, <hbm:ingot_combine_steel>, <hbm:ingot_bscco>, <hbm:ingot_combine_steel>, null],[<hbm:ingot_combine_steel>, <hbm:ingot_bscco>, <hbm:ingot_bscco>, <hbm:ingot_bscco>, <hbm:ingot_starmetal>, <hbm:ingot_bscco>, <hbm:ingot_bscco>, <hbm:ingot_bscco>, <hbm:ingot_combine_steel>],[<hbm:ingot_combine_steel>, <hbm:ingot_bscco>, <hbm:ingot_bscco>, <hbm:ingot_bscco>, <draconicevolution:dragon_heart>, <hbm:ingot_bscco>, <hbm:ingot_bscco>, <hbm:ingot_bscco>, <hbm:ingot_combine_steel>],[null, <hbm:ingot_combine_steel>, <hbm:ingot_bscco>, <hbm:ingot_bscco>, <hbm:ingot_bscco>, <hbm:ingot_bscco>, <hbm:ingot_bscco>, <hbm:ingot_combine_steel>, null],[null, null, <hbm:ingot_combine_steel>, <hbm:ingot_bscco>, <hbm:ingot_bscco>, <hbm:ingot_bscco>, <hbm:ingot_combine_steel>, null, null],[null, null, null, <hbm:ingot_combine_steel>, <hbm:ingot_bscco>, <hbm:ingot_combine_steel>, null, null, null],[null, null, null, null, <hbm:ingot_combine_steel>, null, null, null, null]]);
+
+// »онизированные частицы
+recipes.remove(<hbm:pellet_charged>);
+recipes.addShaped(<hbm:pellet_charged> * 1, [[null, null, null], [null, <avaritia:resource:2>, null],[null, null, null]]);
+
